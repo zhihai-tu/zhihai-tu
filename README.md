@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhihai-tu
 - 👀 I’m interested in reading books, playing pc games and programming
-- 🌱 I’m currently learning Go and k8s
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on sharing programming skills
 - 📫 How to reach me ——>  zhihai.tu@gmail.com
 
